@@ -1,0 +1,2 @@
+It is the first line of WORD.txt file.
+It's in currently branch1.
